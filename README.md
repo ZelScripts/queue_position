@@ -4,7 +4,7 @@ This has been tested only on Ubuntu 18.04 but should also work with 16.04.
 
 *  First install jq **`sudo apt-get install jq`** then run the script.
 ```
-wget https://raw.githubusercontent.com/dk808zelnode/queue_script/master/queue_pos.sh && sudo chmod u+x queue_pos.sh && ./queue_pos.sh
+wget https://raw.githubusercontent.com/ZelScripts/queue_position/master/queue_pos.sh && sudo chmod u+x queue_pos.sh && ./queue_pos.sh
 ```
 #### Example usage
 *  ./queue_pos.sh -BASIC t1cUKkWws83twyvAbj6fWEAfsvp14JDjr87
